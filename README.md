@@ -1,8 +1,10 @@
 ## Projects
 
+> Pro tip: CTRL + LEFT CLICK to open in new tab (I tried to do this automatically but it doesn't seem to work with github)
+
 ### Web Development Portfolio
 - [Source Code](https://github.com/nicholasleexyz/nicholasleexyz.github.io)
-- [Website](www.nicholaslee.xyz)
+- [Website](https://www.nicholaslee.xyz/)
 
 ### Sudoku Puzzles and Editor
 - [Source Code](https://github.com/nicholasleexyz/promineo-fe-16)
@@ -10,7 +12,7 @@
 
 ### Music Player (hosted on alt account for more game dev related stuff)
 - [Source Code](https://github.com/exodecode/exodecode.github.io)
-- [Website](www.exodecode.com)
+- [Website](https://www.exodecode.com/)
 
 ### Gorgon (Voronoi Diagram Generator - written in go)
 - [Source Code](https://github.com/nicholasleexyz/gorgon)
