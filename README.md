@@ -2,33 +2,28 @@
 
 > Pro tip: CTRL + LEFT CLICK to open in new tab (I tried to do this automatically but it doesn't seem to work with github)
 
-### Web Development Portfolio
-- [Source Code](https://github.com/nicholasleexyz/nicholasleexyz.github.io)
-- [Website](https://www.nicholaslee.xyz/)
+## Web Development Portfolio - [Website](https://www.nicholaslee.xyz/)
 
-### Sudoku Puzzles and Editor
-- [Source Code](https://github.com/nicholasleexyz/promineo-fe-16)
-- [Website](https://mellow-bubblegum-042b96.netlify.app)
+[Source Code](https://github.com/nicholasleexyz/nicholasleexyz.github.io)
 
-### Music Player (hosted on alt account for more game dev related stuff)
-- [Source Code](https://github.com/exodecode/exodecode.github.io)
-- [Website](https://www.exodecode.com/)
+## Sudoku Puzzles and Editor - [Website](https://mellow-bubblegum-042b96.netlify.app)
 
-### Gorgon (Voronoi Diagram Generator - written in go)
-- [Source Code](https://github.com/nicholasleexyz/gorgon)
+[Source Code](https://github.com/nicholasleexyz/promineo-fe-16)
 
+## Music Player - [Website](https://www.exodecode.com/)
+#### Description
+Music player for some of the digital music that I like to make on occasion. (hosted on alt account for more game/music related stuff)
 
-<!--
-**nicholasleexyz/nicholasleexyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Source Code](https://github.com/exodecode/exodecode.github.io)
 
-Here are some ideas to get you started:
+## gorgon
+#### Description
+Voronoi diagram generator written in go!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Source Code](https://github.com/nicholasleexyz/gorgon)
+
+## getgroove 
+#### Description
+Command line program that extracts song names from a spotify playlist or album. More of a proof of concept so it's not 100% reliable.
+
+[Source Code](https://github.com/nicholasleexyz/gorgon)
