@@ -24,7 +24,7 @@ Music player for some of the digital music that I like to make on occasion. (hos
 
 ## gorgon
 
-![image](https://github.com/nicholasleexyz/gorgon/assets/129869926/f3f1c599-45b2-4050-a0ec-d5d478ccd24f)
+![239777500-f3f1c599-45b2-4050-a0ec-d5d478ccd24f](https://github.com/nicholasleexyz/nicholasleexyz/assets/129869926/ed0c729e-f469-428a-95fe-0fce0180e0bf)
 
 #### Description
 Console program that generates voronoi textures that tile. (Written entirely in go!)
