@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://github.com/nicholasleexyz/promineo-fe-16
+[sudoku puzzle web app repo](https://github.com/nicholasleexyz/promineo-fe-16)
+[site](https://mellow-bubblegum-042b96.netlify.app/)
 
 <!--
 **nicholasleexyz/nicholasleexyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
