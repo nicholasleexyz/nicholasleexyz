@@ -1,11 +1,19 @@
-### Hi there 👋
+## Projects
 
-### Sudoku Puzzle Web App
+### Web Development Portfolio
+- [Source Code](https://github.com/nicholasleexyz/nicholasleexyz.github.io)
+- [Website](www.nicholaslee.xyz)
 
-<a href="https://mellow-bubblegum-042b96.netlify.app" target="_blank">App Website</a>
-<br>
-<a href="https://github.com/nicholasleexyz/promineo-fe-16" target="_blank">Source Code</a>
+### Sudoku Puzzles and Editor
+- [Source Code](https://github.com/nicholasleexyz/promineo-fe-16)
+- [Website](https://mellow-bubblegum-042b96.netlify.app)
 
+### Music Player (hosted on alt account for more game dev related stuff)
+- [Source Code](https://github.com/exodecode/exodecode.github.io)
+- [Website](www.exodecode.com)
+
+### Gorgon (Voronoi Diagram Generator - written in go)
+- [Source Code](https://github.com/nicholasleexyz/gorgon)
 
 
 <!--
