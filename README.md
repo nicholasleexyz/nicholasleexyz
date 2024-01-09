@@ -16,7 +16,7 @@
 
 ## Music Player - [exodecode.com](https://www.exodecode.com/)
 #### Description
-Music player for some of the digital music that I like to make on occasion. (hosted on alt account for more game/music related stuff)
+Music player for some of the digital music that I like to make on occasion.
 
 ![image](https://github.com/nicholasleexyz/nicholasleexyz/assets/129869926/8de79679-49f6-47d8-844d-1495e411387a)
 
